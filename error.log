@@ -1,0 +1,7 @@
+2020/07/28 10:19:46 this is a test log entry.
+2020/07/28 10:19:46 this is a test log entry.
+2020/07/28 14:06:30 main.go:15: [error] i can mod by 33.
+2020/07/28 14:06:30 main.go:17: [info] i can mod by 34.
+2020/07/28 14:06:30 main.go:19: [debug] i can mod by 35.
+2020/07/28 14:06:30 main.go:21: [warning] i can mod by 36.
+2020/07/28 14:06:30 main.go:23: [fatal] i can mod by 37.
