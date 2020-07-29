@@ -5,7 +5,7 @@
 // - call log.SetLevel()
 // - set environment variable `LOG_LEVEL`
 
-package log
+package golog
 
 import (
 	"fmt"

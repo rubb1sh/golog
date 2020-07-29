@@ -1,7 +1,9 @@
-package main
+package golog
 
 import (
-	"fmt"
-	"os"
 	"testing"
 )
+
+func TestAdd(t *testing.T) {
+
+}
